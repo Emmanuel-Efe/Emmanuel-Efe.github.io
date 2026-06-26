@@ -1,4 +1,4 @@
-# 👋 Welcome to my personal portfolio website.
+## 👋 Welcome to my personal portfolio website
 
 This portfolio showcases my professional background, technical skills, and projects in Data Analytics.
 
