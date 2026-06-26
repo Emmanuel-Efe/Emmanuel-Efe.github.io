@@ -1,5 +1,4 @@
-# 👋
-Welcome to my personal portfolio website.
+# 👋 Welcome to my personal portfolio website.
 
 This portfolio showcases my professional background, technical skills, and projects in Data Analytics.
 
@@ -11,7 +10,7 @@ Visit my portfolio here: https://emmanuel-efe.github.io
 
 ## 📌 About Me
 
-Hi, I'm Emmanuel Efe Eboselume, a Data Analyst specialized in transforming raw, complex information into clear visualizations, insightful reports, and interactive dashboards that help organizations understand performance and plan confidently for the future.
+Hello, I'm Emmanuel, a Data Analyst specialized in transforming raw, complex information into clear visualizations, insightful reports, and interactive dashboards that help organizations understand performance and plan confidently for the future.
 
 My background in Cybersecurity strengthens the way I approach analytics by emphasizing data quality, governance, and integrity, ensuring that every insight is accurate, reliable, and built on a solid foundation. 
 
