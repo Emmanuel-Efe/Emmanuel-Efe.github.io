@@ -16,6 +16,7 @@ Hi, I'm Emmanuel Efe Eboselume, a Data Analyst specialized in transforming raw, 
 My background in Cybersecurity strengthens the way I approach analytics by emphasizing data quality, governance, and integrity, ensuring that every insight is accurate, reliable, and built on a solid foundation. 
 
 I enjoy uncovering patterns, solving real-world business challenges, and developing analytical solutions that improve performance, streamline operations, and support sustainable organizational growth. I am actively seeking remote data analytics roles globally and I'm available to start immediately.
+
 ---
 
 ## 🛠 Technologies Used
